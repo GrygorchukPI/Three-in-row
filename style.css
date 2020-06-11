@@ -1,0 +1,85 @@
+.canvas{
+	position: absolute;
+	width: 95%;
+	height: 95%;
+	font-size: 24pt;
+	left: 2.5%;
+	background-color: blue;	
+
+	}
+
+.headline{
+	  position: inherit;
+	  width: 90%;
+	  height: 10%;
+	  left:  5%;
+	  top:   2.5%;
+	  font-size: 100%;
+	  text-align: center;
+	  color: red;
+	  background-color: lime;
+	}
+
+.score{
+	  position: inherit;
+	  width: 60%;
+	  height: 10%;
+	  left:  20%;
+	  top:   15%;
+	  font-size: 100%;
+	  text-align: center;
+	  color: red;
+	  background-color: olive;
+	}
+
+.gameboard{
+	  position: inherit;
+	  width:  200px;
+	  height: 200px;
+	  left:  40%;
+	  top:   30%;
+	  background-color: olive;
+	}
+
+.cell{
+	position: inherit;
+	width:  60px;
+	height: 60px;
+	background-color: red;
+	}
+
+.turn{
+	position: inherit;
+	width: 60%;
+	height: 10%;
+	left:  20%;
+	top:   65%;
+	font-size: 100%;
+	text-align: center;
+	color: red;
+	background-color: olive;
+	}
+
+.new{
+	position: inherit;
+	width: 20%;
+	height: 10%;
+	left:  20%;
+	top:   80%;
+	font-size: 100%;
+	text-align: center;
+	color: red;
+	background-color: olive;
+	}
+
+.end{
+	position: inherit;
+	width: 20%;
+	height: 10%;
+	left:  60%;
+	top:   80%;
+	font-size: 100%;
+	text-align: center;
+	color: red;
+	background-color: olive;
+	}
